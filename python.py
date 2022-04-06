@@ -1,0 +1,8 @@
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+sums = int(a+b)
+diff = int(a-b)
+print("The sum of two numbers is: ")
+print(sums)
+print("The difference of two numbers is: ")
+print(diff)
